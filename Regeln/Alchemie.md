@@ -1,7 +1,13 @@
 # Alchemie #
 
 ## Ablauf der Herstellung von Alchemika ##
+
 ### Festlegung der Wirkung und bestimmung der Qualität ###
+
+Zuerst muss die Alchemistin sich Gedanken zu der Wirkung ihres Alchemkums
+machen. Dabei Bestimmt die Wahl der Wirkung die benötigte Qualitätsstufe des
+Produkts. 
+
 | Wirkung                    |             Qualität | Begrenzung | Bemerkung                        |
 | :------------------------- | -------------------: | ---------: | :------------------------------- |
 | LP heilen                  |                    1 | maximal 3x | heilt 4 LP                       |
@@ -16,9 +22,16 @@
 Es können dabei **maximal 2** unterschiedliche Wirkungen miteinander kombiniert
 werden. 
 
+Die Alchemistin muss sich beim Entwickeln des Rezeptes auch überlegen, auf
+welchem Wege dir Wirkung appliziert wird. Alchemika können eingenommen werden,
+über die Haut aufgenommen werden oder in den Blutkreislauf gelangen, um ihre
+Wirkung zu entfalten. Ein Wirkungsweg ist in den normalen Kosten enthalten. Soll
+das Produkt seine Wirkung auf mehr als einem Weg entfalten können, steigert das
+die Qualitätsstufe um +1 pro Weg.
+
 ### Ermittlung der Materialkosten ###
 Die Kosten für die benötigten Materialien richten sich nach der angestrebten
-Qualitätsstufe des Alchemikums, sowie dem Können des Alchemisten. Soweit nicht
+Qualitätsstufe des Alchemikums, sowie dem Können der Alchemistin. Soweit nicht
 anders vermerkt sind alle Preise in Lunaren angegeben. 
 
 | Qualitätsstufe | Grundpreis |
@@ -73,7 +86,6 @@ Fortschritspunkte in Höhe von 2x Qualtiätsstufe benötigt. Eine Probe nimmt da
 | Anleitung wird benötigt  | -3  |                                         |
 | Anleitung selbst bekannt | +2  |                                         |
 
-
 ## Quelle und Lizenz ##
 Die Regeln die hier beschrieben werden, basieren auf den Alchemieregeln die von
 Mike Kippel im Rahmen des Splittermond Adventskalender 2016 veröffentlicht
@@ -81,6 +93,3 @@ wurden. Da keine weiteren Lizenzen angegeben wurden, gehe ich von [CC-BY-SA
 3.0](https://creativecommons.org/licenses/by-sa/3.0/de/) aus, wie auf der
 [Lizenz-Seite des
 Splitterwikis](https://splitterwiki.de/wiki/Splitterwiki:Lizenz) angegeben. 
-
-Sollte das nicht stimmen, bitte Bescheid sagen, damit ich die Lizenz korrigieren
-kann. 
