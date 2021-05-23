@@ -1,0 +1,32 @@
+{
+    "markdownConverter.ConversionType": [
+        "HTML"
+    ],
+    "markdownConverter.DestinationPattern": "${workspaceFolder}/render/${dirname}/${basename}.${extension}",
+    "markdown.extension.preview.autoShowPreviewToSide": true,
+    "markdown.extension.print.includeVscodeStylesheets": false,
+    "markdown.extension.print.onFileSave": true,
+
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    
+
+    "[markdown]": {
+
+        "editor.rulers": [80, 72],
+
+        "editor.wordWrap": "on",
+
+        //"editor.wordWrap": "wordWrapColumn",
+        "editor.wrappingIndent": "same",
+        "editor.wordWrapColumn": 80,
+
+        "editor.quickSuggestions": false,
+        "editor.lineNumbers": "off",
+
+        "rewrap.autoWrap.enabled": true,
+    },
+    "markdown-preview-enhanced.codeBlockTheme": "github.css",
+    "markdown-preview-enhanced.previewTheme": "github-dark.css",
+    "markdown-preview-enhanced.revealjsTheme": "moon.css",
+    "markdown-preview-enhanced.configPath": ".vscode"
+}
